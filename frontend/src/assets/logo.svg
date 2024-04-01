@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.63 157.84">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #35374b;
+      }
+
+      .cls-2 {
+        fill: #21fab7;
+      }
+
+      .cls-3 {
+        fill: #86ddf0;
+      }
+
+      .cls-5 {
+        font-family: OpenSansRoman-Bold, 'Open Sans';
+        font-size: 49.67px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+        letter-spacing: .04em;
+      }
+
+      .cls-4 {
+        fill: #754bea;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(0 144.33)"><tspan x="0" y="0">HAZEM</tspan></text>
+  <g>
+    <g>
+      <path class="cls-1" d="M157.66,76.05c0,1.66-1.34,3-3,3s-3-1.34-3-3,1.34-3,3-3,3,1.34,3,3Z"/>
+      <circle class="cls-1" cx="123.15" cy="89.74" r="3"/>
+      <path class="cls-1" d="M124.07,90.24c-.59,0-.93-.01-.95-.02l.05-1c.21,0,21.47.95,31.07-13.45l.83.55c-8.73,13.09-26.68,13.91-31,13.91Z"/>
+      <rect class="cls-4" x="134.06" y="78.71" width="14.02" height="14.02" transform="translate(-21.53 57.27) rotate(-21.36)"/>
+    </g>
+    <g>
+      <g>
+        <path class="cls-1" d="M89.16,63.69c0,1.66-1.34,3-3,3s-3-1.34-3-3,1.34-3,3-3,3,1.34,3,3Z"/>
+        <path class="cls-1" d="M33.16,63.69c0,1.66-1.34,3-3,3s-3-1.34-3-3,1.34-3,3-3,3,1.34,3,3Z"/>
+        <rect class="cls-1" x="31.92" y="63.19" width="53.01" height="1"/>
+      </g>
+      <circle class="cls-3" cx="58.42" cy="63.69" r="14.04" transform="translate(-19.93 27.2) rotate(-22.5)"/>
+    </g>
+    <g>
+      <g>
+        <path class="cls-1" d="M142.32,53.3c-9.99-25.67-35.16-41.6-62.66-39.62-11.36.81-22.25,4.7-31.51,11.23l-.58-.82c9.41-6.64,20.48-10.59,32.02-11.41,27.93-2,53.52,14.18,63.67,40.26l-.93.36Z"/>
+        <circle class="cls-2" cx="102.35" cy="22.08" r="22.08"/>
+      </g>
+      <path class="cls-1" d="M145.78,52.9c.12,1.65-1.13,3.09-2.78,3.21-1.65.12-3.09-1.13-3.21-2.78s1.13-3.09,2.78-3.21c1.65-.12,3.09,1.13,3.21,2.78Z"/>
+      <path class="cls-1" d="M50.85,24.29c.12,1.65-1.13,3.09-2.78,3.21s-3.09-1.13-3.21-2.78,1.13-3.09,2.78-3.21,3.09,1.13,3.21,2.78Z"/>
+    </g>
+  </g>
+</svg>
